@@ -4,7 +4,7 @@ display: flex;
 justify-content: center;
 height: 65px;
 padding-top: 10px;
-font-family: ;
+font-family: sans-serif;
 }
 #navigation{
 
@@ -12,6 +12,7 @@ font-family: ;
     justify-content: center;
     display: flex;
     margin-top: 10px;
+    font-family: sans-serif;
 }
 .main-content{
     display: flex;
@@ -27,6 +28,7 @@ font-family: ;
     display: inline-flex;
     margin-bottom: 11px;
     margin-right: 8px;
+    font-family: sans-serif;
 }
 .center{
     display: inline-flex;
@@ -38,6 +40,7 @@ font-family: ;
     height: 300px;
     margin-top: 0px;
     margin-right: 8px;
+    font-family: sans-serif;
 }
 .right-bar{
     display: inline-flex;
@@ -47,4 +50,5 @@ font-family: ;
     width: 13%;
     justify-content: center;
     align-items: center;
+    font-family: sans-serif;
 }
