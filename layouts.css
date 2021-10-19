@@ -19,9 +19,8 @@ font-family: sans-serif;
 }
 .left-bar{
     background-color: whitesmoke;
-    /* display: flex; */
     height: 300px;
-    margin-top: 13px;
+    margin-top: 10px;
     width: 15%;
     justify-content: center;
     align-items: center;
@@ -31,23 +30,23 @@ font-family: sans-serif;
     font-family: sans-serif;
 }
 .center{
-    display: inline-flex;
+    display: flex;
     background-color: whitesmoke;
     height: 30px;
     justify-content: center;
     align-items: center;
     width: 70%;
     height: 300px;
-    margin-top: 0px;
+    margin-top: 10px;
     margin-right: 8px;
     font-family: sans-serif;
 }
 .right-bar{
-    display: inline-flex;
+    display: flex;
     background-color: whitesmoke;
     height: 298px;
-    margin-top: 0px;
-    width: 13%;
+    margin-top: 10px;
+    width: 15%;
     justify-content: center;
     align-items: center;
     font-family: sans-serif;
