@@ -1,1 +1,14 @@
-.
+.header{
+background-color: whitesmoke;
+display: flex;
+justify-content: center;
+height: 65px;
+padding-top: 10px;
+}
+#navigation{
+
+    background-color: whitesmoke;
+    justify-content: center;
+    display: flex;
+    margin-top: 15px;
+}
