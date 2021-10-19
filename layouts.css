@@ -4,13 +4,14 @@ display: flex;
 justify-content: center;
 height: 65px;
 padding-top: 10px;
+font-family: ;
 }
 #navigation{
 
     background-color: whitesmoke;
     justify-content: center;
     display: flex;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 .main-content{
     display: flex;
@@ -24,6 +25,8 @@ padding-top: 10px;
     justify-content: center;
     align-items: center;
     display: inline-flex;
+    margin-bottom: 11px;
+    margin-right: 8px;
 }
 .center{
     display: inline-flex;
@@ -34,4 +37,14 @@ padding-top: 10px;
     width: 70%;
     height: 300px;
     margin-top: 0px;
+    margin-right: 8px;
+}
+.right-bar{
+    display: inline-flex;
+    background-color: whitesmoke;
+    height: 298px;
+    margin-top: 0px;
+    width: 13%;
+    justify-content: center;
+    align-items: center;
 }
